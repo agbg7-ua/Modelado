@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="render3" src="https://github.com/user-attachments/assets/a943d6a8-2173-4d8f-82ae-5fe09c8f2f44" /># 🎨 Colección de Proyectos en Blender
+# 🎨 Colección de Proyectos en Blender
 
 Este repositorio contiene una colección de mis proyectos personales realizados en Blender, incluyendo modelos 3D, animaciones y un addon desarrollado por mí. Cada proyecto explora diferentes estilos y técnicas dentro de Blender, desde modelado arquitectónico hasta animación y desarrollo de herramientas.
 
