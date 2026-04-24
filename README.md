@@ -1,10 +1,14 @@
-# 🎨 Colección de Proyectos en Blender
+<img width="1920" height="1080" alt="render3" src="https://github.com/user-attachments/assets/a943d6a8-2173-4d8f-82ae-5fe09c8f2f44" /># 🎨 Colección de Proyectos en Blender
 
 Este repositorio contiene una colección de mis proyectos personales realizados en Blender, incluyendo modelos 3D, animaciones y un addon desarrollado por mí. Cada proyecto explora diferentes estilos y técnicas dentro de Blender, desde modelado arquitectónico hasta animación y desarrollo de herramientas.
 
 ---
 
 ## 📁 Proyectos
+<img width="1920" height="1080" alt="render1" src="https://github.com/user-attachments/assets/308e6f4a-6aa5-4f27-a90c-7544e9addc1f" />
+<img width="1920" height="1080" alt="render3" src="https://github.com/user-attachments/assets/d6a693da-d525-441d-84be-16a047284ad1" />
+<img width="1920" height="1080" alt="render2" src="https://github.com/user-attachments/assets/be45fee2-0aef-4590-b83b-464643a06bdd" />
+
 
 ### 🧱 1. Set LEGO del Louvre
 Reconstrucción detallada en estilo LEGO del Museo del Louvre en París.  
@@ -15,6 +19,10 @@ Este proyecto se centra en modelado arquitectónico, construcción modular tipo 
 - Estado: Finalizado  
 
 ---
+<img width="1920" height="1080" alt="render2" src="https://github.com/user-attachments/assets/fc994ae5-a793-4877-8348-1652fa0cad2c" />
+<img width="1920" height="1080" alt="render1" src="https://github.com/user-attachments/assets/855e0449-c2b4-42d5-bfc8-1c1deebbdc6c" />
+<img width="1920" height="1080" alt="render3" src="https://github.com/user-attachments/assets/4f51dbc0-18aa-45aa-9b3a-695ea108daa0" />
+
 
 ### 🌵 2. Paisaje del Oeste
 Escena estilizada de un entorno del oeste, con terreno, elementos desérticos y composición atmosférica.
@@ -29,6 +37,7 @@ El proyecto es demasiado grande para GitHub, por lo que se distribuye en ZIP med
 - Estado: Finalizado  
 
 ---
+<img width="1920" height="1080" alt="robot40" src="https://github.com/user-attachments/assets/b9000fdc-e0c0-4fc1-959a-ed1a412a6a86" />
 
 ### 🤖 3. Animación de Robot Personalizado
 Robot original diseñado y animado en Blender.  
